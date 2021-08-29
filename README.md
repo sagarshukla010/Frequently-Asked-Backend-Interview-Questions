@@ -9,7 +9,7 @@ JavaScript:
 5). How an object is passed by value and passed by reference in javaScript?
 6). Difference between const and Object.freeze in javaScript?
 7). State the difference between let, var and const in javaScript?
-8). What are anonamous functions?
+8). What are anonamous functions and what is its use?
 
 NodeJS:
 
@@ -29,6 +29,8 @@ NodeJS:
 14). What is expressJS? 
 15). What is the difference between authentication and authorization?
 16). How to enhance security of nodejs apis?
+17). What is linting and Describe ES6Lint ?
+18). What is error first Callback in nodejs?
 
 MYSQL:
 
@@ -45,3 +47,20 @@ MongoDB:
 Git and GitHub?
 
 1). What is the difference between GitMerge and GitReBase?
+
+
+Resources:
+
+https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/
+https://www.geeksforgeeks.org/node-js-event-loop/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
+https://www.geeksforgeeks.org/difference-between-object-freeze-and-const-in-javascript/
+https://www.edureka.co/blog/interview-questions/mysql-interview-questions/#MySQL%20DBA%20Interview%20Questions
+https://www.freecodecamp.org/news/what-is-linting-and-how-can-it-save-you-time/
+https://www.geeksforgeeks.org/node_env-variables-and-how-to-use-them/
+https://medium.com/developers-arena/streams-piping-and-their-error-handling-in-nodejs-
+https://www.geeksforgeeks.org/error-first-callback-in-node-js/
+https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/
+
+
