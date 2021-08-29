@@ -39,7 +39,7 @@ MYSQL:
 
 MongoDB:
 
-1). What are agreegations in MongoDB?
+1). What are aggregations in MongoDB?
 2). Difference between MongoDB and MYSQL?
 3). How to connect MongoDB?
 4). When we create mongoDB which key will be automatically gets assigned(Primary/Secondary)?
@@ -48,6 +48,15 @@ Git and GitHub?
 
 1). What is the difference between GitMerge and GitReBase?
 
+DataBase Design?
+
+1). Design a DataBase for a pizza shop in which someone wants to order his/her favourite pizza?
+2). Design a DataBase for a situation in which you have different cars which are having different features?
+3). Design a DataBase to store the crediantials of logged in person?
+
+Compitative Coding Questions:
+
+1). In an Duplicate elements array, find out the elements which are occuring multiple times?
 
 Resources:
 
@@ -62,5 +71,7 @@ https://www.geeksforgeeks.org/node_env-variables-and-how-to-use-them/
 https://medium.com/developers-arena/streams-piping-and-their-error-handling-in-nodejs-
 https://www.geeksforgeeks.org/error-first-callback-in-node-js/
 https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/
+https://docs.mongodb.com/manual/aggregation/
+
 
 
