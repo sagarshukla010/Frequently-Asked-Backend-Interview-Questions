@@ -57,6 +57,32 @@ DataBase Design?
 Compitative Coding Questions:
 
 1). In an Duplicate elements array, find out the elements which are occuring multiple times?
+2). What will be the output of the following code:
+
+setTimeout(()=>{
+      console.log("a");
+   },1000);
+   console.log("b");
+ 
+Solution: ba
+ 
+setTimeout(()=>{
+      console.log("a");
+   },0);
+   console.log("b");
+   
+Solution: ba
+
+for(var i = 1; i < 6; i++) {
+   console.log('Loop Number' + i); // added this
+   setTimeout(()=>{
+      console.log(i);
+   },1000);
+}
+
+Solution: https://www.freecodecamp.org/news/thrown-for-a-loop-understanding-for-loops-and-timeouts-in-javascript-558d8255d8a4/
+
+3). Write a SQL query to find the second maximum salary of an employee?
 
 Resources:
 
