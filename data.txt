@@ -29,6 +29,7 @@ NodeJS:
 16). How to enhance security of nodejs apis?
 17). What is linting and Describe ES6Lint ?
 18). What is error first Callback in nodejs?
+19). If any of the promise got error in promise.all then what will happen to the other promises?
 
 MYSQL:
 
@@ -88,6 +89,8 @@ Compitative Coding Questions:
 
 3). Write a SQL query to find the second maximum salary of an employee?
 4). Given two strings, check if they are anagrams of one another?
+5). Convert the array : arr = [3, 5, 7, [4, 6, [5, 7], 6], 6, [8, 9]]
+    into arr = [3,5,7,4,6,5,7,6,6,8,9] without using any build in functions?
 
 Resources:
 
